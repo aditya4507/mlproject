@@ -16,11 +16,7 @@ opencv-python==4.9.0.80
 
 streamlit==1.32.2
 
-tensorflow-datasets==4.9.2
-tensorflow-estimator==2.13.0
-tensorflow-macos
-tensorflow-metadata==1.14.0
-tensorflow-metal==1.0.1 
+
 
 twilio==9.0.2
 
@@ -30,6 +26,8 @@ Werkzeug==3.0.1
 numpy==1.22.3
 
 pandas==2.0.3
+
+tensorflow
 
 
 
