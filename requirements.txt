@@ -9,7 +9,8 @@ matplotlib==3.7.5
 matplotlib-inline==0.1.6
 
 
-opencv-python==4.9.0
+opencv-python==4.5.3.56
+
 
 
 
