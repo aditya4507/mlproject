@@ -12,7 +12,7 @@ img_width = 250
 def load_model():
     try:
         # Load the pre-trained model
-        model = tf.keras.models.load_model("/Users/adityatapase/Desktop/major zip/Model.h5")
+        model = tf.keras.models.load_model("Model.h5")
         return model
     except Exception as e:
         st.error(f"Error loading the model: {e}")
